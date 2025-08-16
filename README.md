@@ -1,24 +1,34 @@
 # 👩‍💻 QA Portfolio
 
-Hi, I'm Katherynne — a former software developer with over 6 years of experience building software solutions and solving technical challenges. After taking a career pause to support my family and focus on ESL studies, I stayed active by working part-time as an **administrative assistant** and contributing to a **nonprofit organization that runs family support programs**. I assisted with organizing events, managing information, and supporting community initiatives.
+Hi, I'm Katherynne a former **software development** with over 6 years of experience building software solutions and solving technical challenges. I also hold a Master’s degree in Project Management, which strengthened my ability to plan, organize, and deliver projects effectively while collaborating with diverse teams. 
 
-Currently, I’m learning and practicing **Quality Assurance testing**, including manual and automation testing. I’m excited to return to the tech field with this new focus — combining my technical background, problem-solving mindset, and attention to detail to contribute to high-quality, user-friendly software.
+After taking a career pause to support my family and focus on ESL studies, I stayed active by working part-time as an **administrative assistant** and contributing to a **nonprofit organization that runs family support programs**. I assisted with organizing events, managing information, and supporting community initiatives.
+
+Now, I am transitioning into Quality Assurance (QA), combining my technical background, project management expertise, and detail-oriented mindset to ensure high-quality software solutions.
 
 ## 📁 Portfolio Contents
 
 **Manual Testing**
-- Writing test cases
-- Reporting bugs
-- Creating test plans
+- [Test Cases]() – Sample scenarios  
+- [Bug Reports]() – Issues found during exploratory testing  
+- [Test Plan]() – High-level test planning document  
 
 **Automation Testing**
-- Cypress 
-- Selenium (coming soon)
+- **UI Testing (Selenium + Cypress)** 
+- []
+- []
 
-**API Testing**
-- Postman
-- Sample Reports
+**API Testing (Postman)**
+- [Postman Collection]
 
-**Other Tools**
-- Jira (bug tracking)
-- VS Code, Git, GitHub
+**Reports**
+- [Screenshots]
+
+**Tools & Skills**
+- Manual Testing: Test case design, bug reporting, exploratory testing  
+- Automation: Selenium, Cyrpress, Postman 
+- Tools: Jira, GitHub, Excel, SQL basics  
+- Reporting: screenshots
+
+📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/melissa-ha5/)
+📌 View my resume [here]()  
