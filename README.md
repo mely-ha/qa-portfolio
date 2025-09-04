@@ -12,7 +12,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 ---
 
 ## Resume 
-📌 View my resume [here]()  
+📌 View my resume [here](https://drive.google.com/file/d/1YHicHzCttdDRLK-AryRDOBMKhxYdeh_N/view?usp=sharing)  
 
 ---
 
@@ -22,53 +22,48 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 |---------|-------------|-------|
 | **Manual Testing** | Test cases, bug reports, and test plans created on practice sites | [Details Below](#manual-testing-examples) |
 | **Automation Testing** | UI Automation (Selenium & Cypress), API Testing (Postman) | [Details Below](#automation-testing-examples) |
-| **Reports** | Screenshots of failed and passed test runs | [Screenshots]() |
 | **Tools & Skills** | Jira, GitHub, TestRail, Chrome DevTools, SQL basics, Excel/Google Sheets | N/A |
 
 ---
 
-# 🔍 Manual Testing Examples
+# Manual Testing Examples
 
 ### Testing Test Cases examples (Excel/Google Sheets) and Work in TestRail
 | Practice Site | Purpose | Link |
 |---------------|---------|------|
-| [Practice E-Commerce](https://www.saucedemo.com/) | Test cases created for QA practice | [Google Sheets](https://docs.google.com/spreadsheets/d/1pzjr9oQs5D2KD2WlqPj-jc-iNgH7CvKqxN52RLoJtGU/edit?usp=sharing) |
-| [Practice HR System](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) | Test cases created for QA practice | [Google Sheets](https://docs.google.com/spreadsheets/d/1oPzjAyNbXkCunZiKfNjJj3GWeZAW81qsNt27V6nCTC0/edit?usp=sharing) |
-| [QA Practice Site](https://demoqa.com/) | Test cases created for QA practice | [Google Sheets](https://docs.google.com/spreadsheets/d/1aFvsMgGwZgBoU3ketR0Nkg09Fv93IYtl-H99JpkYQXA/edit?usp=sharing) |
-| [Practice HR System](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) | Test cases executed in TestRail | [Screenshot](https://docs.google.com/document/d/1KY0Hg1zs9MQkhiKRnLT1rRFAx8i1wiJ45IB18cFHsso/edit?usp=sharing) |
+| [Practice E-Commerce](https://www.saucedemo.com/) | Test cases created for QA practice | [Google Sheets](https://docs.google.com/spreadsheets/d/1eZKbYCMDGyibeNLr7y-BKtydp5wPmGGH/edit?usp=sharing&ouid=102817532864251742061&rtpof=true&sd=true) |
+| [Practice HR System](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) | Test cases created for QA practice | [Google Sheets](https://docs.google.com/spreadsheets/d/1LExmYt26hCECbzQ1ultFKPO9HJbVzNti/edit?usp=sharing&ouid=102817532864251742061&rtpof=true&sd=true) |
+| [QA Practice Site](https://demoqa.com/) | Test cases created for QA practice | [Google Sheets](https://docs.google.com/spreadsheets/d/1O07-EOsoVWNL5WpKiI_zvdPac3AmPR0j/edit?usp=sharing&ouid=102817532864251742061&rtpof=true&sd=true) |
+| [Practice HR System](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) | Test cases executed in TestRail | [Screenshot](https://drive.google.com/file/d/1VJqCh8TxfLAWxuEOWGoThOJ501YaX-Ii/view?usp=sharing) |
 
 
 ### Bug Reports Examples (Excel/Google Sheets) and Work in Jira
 | Practice Site | Purpose | Link |
 |---------------|---------|------|
-| [Practice E-Commerce](https://www.saucedemo.com/) | Sample bugs reported | [Google Sheets](https://docs.google.com/spreadsheets/d/1GRH5kvwmq97aUSfaWg1hrxJ-rLc67yYy4p4X5Hhk2_A/edit?usp=sharing) |
-| [QA Practice Site](https://demoqa.com/) | Sample bugs reported | [Google Sheets](https://docs.google.com/spreadsheets/d/1WZe1XHWBRBUEU5qJji2jwuzo2z-YsvTiIq1CWK9wu1w/edit?usp=sharing) |
+| [Practice E-Commerce](https://www.saucedemo.com/) | Sample bugs reported | [Google Sheets](https://docs.google.com/spreadsheets/d/19F4qG-DKhP6MOTw5G0kC1idDYfZ14Vho/edit?usp=sharing&ouid=102817532864251742061&rtpof=true&sd=true) |
+| [QA Practice Site](https://demoqa.com/) | Sample bugs reported | [Google Sheets](https://docs.google.com/spreadsheets/d/19FNohHjRR6Fm74ljm0HKLIUXsFeD1XVM/edit?usp=sharing&ouid=102817532864251742061&rtpof=true&sd=true) |
 | Jira Example | Example of a project in Jira| [Screenshot](https://www.awesomescreenshot.com/image/56057412?key=fb13a7d9a4b15cbd933a86d2235604d7) |
 | Jira Bug Example | Example of a bug report in Jira| [Screenshot](https://www.awesomescreenshot.com/image/56058363?key=9d842eef0b5ca4b4b4e11fbc75f96fed) |
 ---
 
-# 📝 Test Plan
-- Outlines objectives, scope, test cases, and expected results for practicing manual QA skills. Check [Google Docs here](https://docs.google.com/document/d/1r_HGFr36W1jMFJkNOXFkzYFfpVJbE3j4lmjmtHXfZQg/edit?usp=sharing)  
+# Test Plan
+- Outlines objectives, scope, test cases, and expected results for practicing manual QA skills. Check [Google Docs here](https://drive.google.com/file/d/1YB4yIA8DKI1wLOUdRA9QsGzJKnd5pD3t/view?usp=sharing)  
 
 ---
-# 🤖 Automation Testing
+# Automation Testing
 | Automation Type | Description | Link |
 |-----------------|------------|------|
-| UI Automation | Selenium & Cypress test cases | [GitHub Repo]() |
+| UI Automation | Selenium & Cypress test cases | [GitHub Repo](https://drive.google.com/drive/folders/1NQXI-3el3IAtmAnmf3kK0AhAq_c24a-v?usp=sharing) |
 | API Testing | Postman API tests | [Postman Collection]() |
 
 ---
 
-# 📊 Reports 
-- [Screenshots]() – Examples of failed and passed test runs.
-
-# 🛠 Tools & Skills
+# Tools & Skills
 | Category | Tools / Skills |
 |----------|----------------|
 | Manual Testing | Test case design, bug reporting, exploratory testing | 
-| Automation | Selenium, Cypress, Postman |
+| Automation | Selenium, Cypress, Postman | 
 | Tools | Jira, GitHub, Excel/Google Sheets, SQL basics, TestRail, Google Docs, Chrome DevTools |
-| Reporting | screenshots |
 
 ---
 
