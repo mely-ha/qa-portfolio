@@ -12,7 +12,7 @@ My career goal is to apply my knowledge to real-world testing projects and grow 
 ---
 
 ## Resume 
-📌 View my resume [here](https://drive.google.com/file/d/1YHicHzCttdDRLK-AryRDOBMKhxYdeh_N/view?usp=sharing)  
+📌 View my resume [here](https://docs.google.com/document/d/1xqL2ZFYbGOLeDWHOn_MJ6knQyeZM8R6z/edit?usp=sharing&ouid=102817532864251742061&rtpof=true&sd=true)  
 
 ---
 
