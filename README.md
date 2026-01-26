@@ -1,14 +1,14 @@
 # 👩‍💻 QA Portfolio
 
 ## About ME
-Hi, I'm Katherynne Hidalgo a former **software developer** with over 6 years of experience building software solutions and solving technical challenges. I also hold a Master’s degree in Project Management, which strengthened my ability to plan, organize, and deliver projects effectively while collaborating with diverse teams. 
+Hi, I'm Katherynne Hidalgo an IT professional with a background in software development and project delivery, currently gaining experience in manual Quality Assurance (QA) testing. 
+This portfolio contains practice projects and examples of test cases, bug reports, test plans, and API testing in safe, shareable environments.
 
-During my career pause, I focused on **ESL studies** while staying active by working part-time as an **administrative assistant** and contributing to a **nonprofit organization that runs family support programs**. I assisted with organizing events, managing information, and supporting community initiatives.
+Through freelance QA projects, I have performed exploratory, regression, functional, payment flow testing, streaming app testing, and user experience validation on web, mobile, and Smart TV applications.
 
-Now, I am transitioning into **Quality Assurance (QA)**, combining my technical background, project management expertise, and detail-oriented mindset to ensure high-quality software solutions. Currently, I am intensively studying techniques and tools by attending online courses, studying industry tools and practicing with demo applications.
+I bring a developer’s mindset to testing, helping me identify defects effectively, validate functionality accurately, and communicate issues clearly.
 
-My career goal is to apply my knowledge to real-world testing projects and grow into a mid-level software tester within the next 2 years.
-
+(I am also gaining practical experience in UI automation using Cypress and Selenium.)
 ---
 
 ## Resume 
