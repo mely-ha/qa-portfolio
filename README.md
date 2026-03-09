@@ -8,7 +8,7 @@ This portfolio contains practice projects and examples of test cases, bug report
 Through freelance QA projects, I have been involved in exploratory, regression, functional, payment flow, streaming app testing, and user experience validation on web, mobile, and Smart TV applications.
 I bring a developer’s mindset to testing, helping me identify defects effectively, validate functionality accurately, and communicate issues clearly.
 
-(I am interested in gaining practical experience in UI automation using Cypress and Selenium.)
+(I am interested in gaining hands-on experience in UI automation using Playwright, Cypress, and Selenium.)
 ---
 
 ## Resume 
