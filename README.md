@@ -1,14 +1,13 @@
 # 👩‍💻 QA Portfolio
 
 ## About ME
-Hi, I'm Katherynne Hidalgo, an IT professional with a background in software development and project delivery, currently developing experience in manual Quality Assurance (QA) testing.
+Hi, I'm Katherynne Hidalgo, an IT professional with a background in software development and project delivery, currently working as a manual QA tester on freelance projects.
 
-This portfolio contains practice projects and examples of test cases, bug reports, test plans, and API testing in safe, shareable environments.
+While this portfolio contains practice projects and examples of test cases, bug reports, test plans, and API testing in safe, shareable environments, my freelance work has given me hands-on experience in exploratory, functional, regression, payment flow, streaming app, and user experience testing across web, mobile, and Smart TV applications.
 
-Through freelance QA projects, I have been involved in exploratory, regression, functional, payment flow, streaming app testing, and user experience validation on web, mobile, and Smart TV applications.
-I bring a developer’s mindset to testing, helping me identify defects effectively, validate functionality accurately, and communicate issues clearly.
+I am familiar with test case creation, bug reporting, defect tracking, and Agile and Waterfall methodologies. I bring a developer’s mindset to testing, helping me identify defects effectively, validate functionality accurately, and communicate issues clearly.
 
-(I am interested in gaining hands-on experience in UI automation using Playwright, Cypress, and Selenium.)
+I am highly motivated to grow into automation. I am looking for opportunities where I can contribute my attention to detail, analytical thinking, and problem-solving skills to help deliver reliable, high-quality software while continuing to learn and grow as a QA professional.
 ---
 
 ## Resume 
