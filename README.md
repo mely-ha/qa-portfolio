@@ -1,13 +1,11 @@
 # 👩‍💻 QA Portfolio
 
 ## About ME
-Hi, I'm Katherynne Hidalgo, an IT professional with a background in software development and project delivery, currently working as a manual QA tester on freelance projects.
+Hi, I’m Katherynne Hidalgo, a manual QA tester with freelance experience in exploratory, functional, regression, payment flow, streaming apps, and user experience testing across web, mobile, and Smart TV applications. I am familiar with test case creation, bug reporting, defect tracking, and Agile and Waterfall workflows.
 
-While this portfolio contains practice projects and examples of test cases, bug reports, test plans, and API testing in safe, shareable environments, my freelance work has given me hands-on experience in exploratory, functional, regression, payment flow, streaming app, and user experience testing across web, mobile, and Smart TV applications.
+My portfolio includes practice projects and examples of test cases, bug reports, test plans, and API testing in safe, shareable environments. I bring a developer’s background in software development and project delivery as a plus, which helps me understand applications deeply, identify defects effectively, and communicate issues clearly.
 
-I am familiar with test case creation, bug reporting, defect tracking, and Agile and Waterfall methodologies. I bring a developer’s mindset to testing, helping me identify defects effectively, validate functionality accurately, and communicate issues clearly.
-
-I am highly motivated to grow into automation. I am looking for opportunities where I can contribute my attention to detail, analytical thinking, and problem-solving skills to help deliver reliable, high-quality software while continuing to learn and grow as a QA professional.
+I am motivated to grow into automation testing and am looking for opportunities to contribute my attention to detail, analytical thinking, problem-solving skills, organization, persistence, and adaptability to deliver reliable, high-quality software while continuing to learn and grow as a QA professional.
 ---
 
 ## Resume 
