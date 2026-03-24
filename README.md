@@ -9,7 +9,7 @@ I am motivated to grow into automation testing and am looking for opportunities 
 ---
 
 ## Resume 
-📌 View my resume [here](https://docs.google.com/document/d/1xqL2ZFYbGOLeDWHOn_MJ6knQyeZM8R6z/edit?usp=sharing&ouid=102817532864251742061&rtpof=true&sd=true)  
+📌 View my resume [here](https://docs.google.com/document/d/1gSaVeJMv4OSTRjlXnExCQr5lZ5kohFN6XvZfZk3-lqo/edit?usp=sharing)  
 
 ---
 
