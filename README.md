@@ -1,11 +1,13 @@
 # 👩‍💻 QA Portfolio
 
 ## About ME
-Hi, I’m Katherynne Hidalgo, a manual QA tester with freelance experience in exploratory, functional, regression, payment flow, streaming apps, and user experience testing across web, mobile, and Smart TV applications. I am familiar with test case creation, bug reporting, defect tracking, and Agile and Waterfall workflows.
+Hi, I’m **Katherynne Hidalgo**, a detail-oriented **Manual QA Tester** with freelance experience performing exploratory, functional, regression, sanity, smoke testing, payment workflow, streaming application, and user experience testing across **web, mobile, and Smart TV applications**.
 
-My portfolio includes practice projects and examples of test cases, bug reports, test plans, and API testing in safe, shareable environments. I bring a developer’s background in software development and project delivery as a plus, which helps me understand applications deeply, identify defects effectively, and communicate issues clearly.
+I am familiar with **test case creation, bug reporting, defect tracking**, and working within **Agile and Waterfall environments**.
 
-I am motivated to grow into automation testing and am looking for opportunities to contribute my attention to detail, analytical thinking, problem-solving skills, organization, persistence, and adaptability to deliver reliable, high-quality software while continuing to learn and grow as a QA professional.
+My portfolio includes practice projects and examples of **test cases, bug reports, test plans, and API testing** created in safe, shareable environments. I bring a strong background in **software development, system analysis, and project delivery**, which helps me understand applications deeply, identify defects effectively, and communicate issues clearly.
+
+I am motivated to grow into a role in **Automation QA**. I am seeking opportunities to contribute my **attention to detail, analytical thinking, problem-solving skills, organization, persistence, and adaptability** to deliver reliable, high-quality software while continuing to learn and grow as a QA professional.
 ---
 
 ## Resume 
@@ -58,10 +60,44 @@ I am motivated to grow into automation testing and am looking for opportunities 
 # Tools and Skills
 | Category | Tools / Skills |
 |----------|----------------|
-| Manual Testing | Test case design, bug reporting, exploratory testing | 
-| Automation | Selenium, Cypress, Postman, Visual Studio Code SQL (basic) | 
-| Tools | Jira, GitHub, Excel/Google Sheets, TestRail, Google Docs, Chrome DevTools |
+| Manual Testing | Test case design, bug reporting, exploratory, regression, functional, smoke, sanity, UAT, UX testing | 
+| Automation |  Selenium (basic), Cypress (basic), Postman, SQL (basic) | 
+| Tools | Jira, GitHub, TestRail, Excel, Google Sheets, Google Docs, Chrome DevTools |
+| Methodologies | Agile, Scrum, Waterfall |
+| Databases | MySQL, MS SQL Server |
+
+---
+# Key QA Experience Demonstrated in This Portfolio
+
+- Performed functional, exploratory, regression, smoke, and sanity testing across mobile, web, and Smart TV applications  
+- Executed end-to-end testing for food delivery and shopping workflows, including order placement, payment processing, and delivery tracking  
+- Conducted in-person testing for retail and delivery scenarios, validating real-world user flows and transaction accuracy  
+- Tested streaming platforms across mobile and Smart TV devices, verifying video playback, login, subscription activation, and customer support workflows  
+- Validated payment and subscription systems, including subscription activation, pricing updates, refunds, and payment authorization processes
+- Performed usability and UX testing for ride-sharing, delivery, and navigation applications, improving onboarding and navigation flows  
+- Tested AI-based applications, validating chatbot responses, messaging features, and user interaction workflows  
+- Conducted functional testing for social networking and communication applications, including friend connections, messaging, and call features  
+- Tested e-commerce and marketplace applications, validating product search, filtering, listing, checkout, and order confirmation workflows  
+- Verified system functionality for healthcare appointment and kiosk-based registration systems  
+- Performed regression testing after bug fixes to ensure system stability and prevent recurring defects  
+- Reported defects using structured bug reports and tracked issues using internal defect tracking tools
+- Collaborated with team leads and team members to reproduce and document defects
 
 ---
 
+# Industries & Project Types (NDA Safe)
+
+- Food Delivery & Grocery Applications 
+- Streaming & Media Platforms (Mobile & Smart TV) 
+- Sports & Entertainment Applications 
+- AI & Chat Applications 
+- Social Networking & Messaging Apps 
+- Ride-Sharing Services 
+- Travel & Airport Services Applications 
+- E-commerce & Marketplace Platforms 
+- Retail & Shopping Applications 
+- Healthcare & Appointment Scheduling Systems 
+- Payment & Financial Applications 
+- Cryptocurrency & Digital Wallet Applications
+  
 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/melissa-ha5/)
