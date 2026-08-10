@@ -1,9 +1,9 @@
 👩‍💻 Manual QA Testing Portfolio
 
-## About ME
+## About Me
 Manual QA Tester with hands-on freelance experience testing **web, iOS, Android, and Smart TV/streaming** applications across multiple industries.
 
-Familiar with  **functional, regression, smoke, sanity, exploratory, UAT, UX/usability, payment, streaming, and API testing**. I execute test cases, verify requirements and Jira tickets, report defects, retest fixes when applicable, and perform cross-platform and cross-device testing.
+Experienced in **functional, regression, smoke, sanity, exploratory, UAT, UX/usability, payment, streaming, and API testing**. I execute test cases, verify requirements and Jira tickets, report defects, retest fixes when applicable, and perform cross-platform and cross-device testing.
 
 Due to client confidentiality agreements, specific client and company names are not disclosed.
 
@@ -55,10 +55,10 @@ Includes:
 
 ---
 # 💼 QA Experience
----
+
 Due to client confidentiality agreements, specific client and company names are not disclosed.
 
-📺 Streaming & Media Applications
+### 📺 Streaming & Media Applications
 
 Platforms: Web | iOS | Android | Smart TV
 
@@ -68,7 +68,7 @@ Platforms: Web | iOS | Android | Smart TV
 - Tested playback behavior across different devices and scenarios.
 - Validated content and metadata-related functionality.
 
-📰 Media & News Applications
+### 📰 Media & News Applications
 
 Platforms: Web | Mobile
 
@@ -77,7 +77,7 @@ Platforms: Web | Mobile
 - Tested subscription and payment flows.
 - Validated navigation, content presentation, UI behavior, and user workflows.
 
-🛍️ Marketplace & E-Commerce Applications
+### 🛍️ Marketplace & E-Commerce Applications
 
 Platforms: Web | iOS | Android
 
@@ -86,7 +86,7 @@ Platforms: Web | iOS | Android
 - Validated different listing types, search, filtering, and user workflows.
 - Tested edge cases and unexpected user behavior.
 
-🚗 Transportation & Delivery Applications
+### 🚗 Transportation & Delivery Applications
 
 Platforms: iOS | Android 
 
@@ -94,7 +94,7 @@ Platforms: iOS | Android
 - Performed functional, exploratory, regression, and UX testing.
 - Validated navigation, user interactions, and different user scenarios.
 
-🏀 Sports & Entertainment Applications
+### 🏀 Sports & Entertainment Applications
 
 Platforms: Web | Mobile
 
@@ -102,7 +102,7 @@ Platforms: Web | Mobile
 - Validated content, navigation, and user-facing functionality.
 - Tested application behavior across supported platforms.
 
-💳 Payment & Transaction Applications
+### 💳 Payment & Transaction Applications
 
 Platforms: Mobile | Web 
 
@@ -111,7 +111,7 @@ Platforms: Mobile | Web
 - Performed functional and regression testing.
 - Verified application behavior after changes and fixes.
 
-🏥 Healthcare Applications
+### 🏥 Healthcare Applications
 
 Platforms: Mobile | Web
 
@@ -119,7 +119,7 @@ Platforms: Mobile | Web
 - Performed functional, exploratory, regression, and usability testing.
 - Validated user flows and expected application behavior.
 
-🤖 AI, Social & Communication Applications
+### 🤖 AI, Social & Communication Applications
 
 Platforms: Web | Mobile
 
@@ -130,7 +130,7 @@ Platforms: Web | Mobile
 
 ---
 
-🐞 Bug Reporting & Jira Ticket Verification
+# 🐞 Bug Reporting & Jira Ticket Verification
 
 My freelance QA experience includes:
 
@@ -143,7 +143,7 @@ My freelance QA experience includes:
 
 ---
 
-🔌 API Testing
+# 🔌 API Testing
 
 Performed REST API testing using Postman, including:
 
@@ -154,11 +154,17 @@ Performed REST API testing using Postman, including:
 - Status code validation
 - Expected vs. unexpected responses
 
-# Automation and API testing
-| Automation Type | Description | Link |
-|-----------------|------------|------|
-| UI Automation | Selenium & Cypress test cases | [Repository](https://drive.google.com/drive/folders/1NQXI-3el3IAtmAnmf3kK0AhAq_c24a-v?usp=sharing) |
-| API Testing | Postman collection with functional & negative tests | [Collection](https://drive.google.com/drive/folders/1Mp9kl49c2sVxGpyjZdvfmR3vpKTbdsu3?usp=sharing) |
+# 🤖 Automation Practice
+
+Currently expanding my automation skills through hands-on practice with:
+
+- **Selenium**
+- **Cypress**
+- **API testing with Postman**
+
+Selenium & Cypress test cases: [Repository](https://drive.google.com/drive/folders/1NQXI-3el3IAtmAnmf3kK0AhAq_c24a-v?usp=sharing) 
+
+Postman collection with functional & negative tests: [Collection](https://drive.google.com/drive/folders/1Mp9kl49c2sVxGpyjZdvfmR3vpKTbdsu3?usp=sharing) 
 
 ---
 
@@ -210,4 +216,4 @@ My testing approach focuses on:
 
 ---
   
-📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/melissa-ha5/)
+## 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/melissa-ha5/)
