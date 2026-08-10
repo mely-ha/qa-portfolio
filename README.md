@@ -1,15 +1,11 @@
 # 👩‍💻 QA Portfolio
 
 ## About ME
-Hi, I’m **Katherynne Hidalgo**, a detail-oriented **Manual QA Tester** with freelance experience testing **web, mobile, and Smart TV applications**. I have hands-on experience in **functional, regression, exploratory, smoke, sanity, streaming, payment, and API testing**.
+Manual QA Tester with hands-on freelance experience testing **web, iOS, Android, and Smart TV/streaming** applications across multiple industries.
 
-I am familiar with **test case creation, bug reporting, and defect tracking**in both **Agile and Waterfall environments**.
+Familiar with  **functional, regression, smoke, sanity, exploratory, UAT, UX/usability, payment, streaming, and API testing**. I execute test cases, verify requirements and Jira tickets, report defects, retest fixes when applicable, and perform cross-platform and cross-device testing.
 
-My portfolio includes practice projects demonstrating **test cases, bug reports, test plans, and API testing** using safe, shareable environments.
-
-I also bring a background in **software development, system analysis, and project delivery**, which helps me understand applications deeply and communicate defects clearly.
-
-I am currently focused on growing into an **Automation QA role**, expanding my skills in Selenium, Cypress, Playwright, and API automation.
+Due to client confidentiality agreements, specific client and company names are not disclosed.
 
 ---
 
@@ -54,9 +50,110 @@ Includes:
 - Scope
 - Test cases
 - Expected results
-📌 View Test Plan [Google Docs here](https://drive.google.com/file/d/1YB4yIA8DKI1wLOUdRA9QsGzJKnd5pD3t/view?usp=sharing)  
+  
+📌 View Test Plan [Google Docs here](https://drive.google.com/file/d/1YB4yIA8DKI1wLOUdRA9QsGzJKnd5pD3t/view?usp=sharing)
 
 ---
+# 💼 QA Experience
+---
+Due to client confidentiality agreements, specific client and company names are not disclosed.
+
+📺 Streaming & Media Applications
+
+Platforms: Web | iOS | Android | Smart TV
+
+- Tested live and on-demand video playback.
+- Validated ad playback, closed captions, navigation, and playback controls.
+- Performed exploratory, regression, smoke, and sanity testing.
+- Tested playback behavior across different devices and scenarios.
+- Validated content and metadata-related functionality.
+
+📰 Media & News Applications
+
+Platforms: Web | Mobile
+
+- Tested news and weather applications across web and mobile platforms.
+- Performed functional and regression testing.
+- Tested subscription and payment flows.
+- Validated navigation, content presentation, UI behavior, and user workflows.
+
+🛍️ Marketplace & E-Commerce Applications
+
+Platforms: Web | iOS | Android
+
+- Tested listing, purchasing, and user interaction flows.
+- Performed functional, regression, exploratory, and UX testing.
+- Validated different listing types, search, filtering, and user workflows.
+- Tested edge cases and unexpected user behavior.
+
+🚗 Transportation & Delivery Applications
+
+Platforms: iOS | Android | Web
+
+- Tested mobile and web application workflows.
+- Performed functional, exploratory, regression, and UX testing.
+- Validated navigation, user interactions, and different user scenarios.
+
+🏀 Sports & Entertainment Applications
+
+Platforms: Web | Mobile
+
+- Performed functional, exploratory, regression, and usability testing.
+- Validated content, navigation, and user-facing functionality.
+- Tested application behavior across supported platforms.
+
+💳 Payment & Transaction Applications
+
+Platforms: Mobile | Web
+
+- Tested payment and transaction-related workflows.
+- Validated successful, unsuccessful, and edge-case scenarios.
+- Performed functional and regression testing.
+- Verified application behavior after changes and fixes.
+
+🏥 Healthcare Applications
+
+Platforms: Mobile | Web
+
+- Executed test cases for application workflows.
+- Performed functional, exploratory, regression, and usability testing.
+- Validated user flows and expected application behavior.
+
+🤖 AI, Social & Communication Applications
+
+Platforms: Web | Mobile
+
+- Tested AI-based application features and user interactions.
+- Validated chatbot responses and messaging workflows.
+- Tested social networking and communication features.
+- Performed functional, exploratory, and usability testing.
+
+---
+
+🐞 Bug Reporting & Jira Ticket Verification
+
+My freelance QA experience includes:
+
+- Identifying and reproducing software defects.
+- Documenting clear steps to reproduce, expected results, and actual results.
+- Verifying Jira tickets against requirements and expected functionality.
+- Retesting fixes when applicable.
+- Performing regression testing after changes.
+- Communicating testing results and findings with team leads and other testers.
+
+---
+
+🔌 API Testing
+
+Performed REST API testing using Postman, including:
+
+- Functional API testing
+- Negative test scenarios
+- Request validation
+- Response validation
+- Status code validation
+- Expected vs. unexpected responses
+
 # Automation and API testing
 | Automation Type | Description | Link |
 |-----------------|------------|------|
@@ -69,43 +166,49 @@ Includes:
 | Category | Tools / Skills |
 |----------|----------------|
 | Manual Testing | Test case design, bug reporting, exploratory, regression, functional, smoke, sanity, UAT, UX testing | 
-| Automation |  Selenium (basic), Cypress (basic), Postman, SQL (basic) | 
-| Tools | Jira, GitHub, TestRail, Excel, Google Sheets, Google Docs, Chrome DevTools |
+| Specialized Testing | Streaming, payment, API, cross-platform, and cross-device testing | 
+| Platforms | Web, iOS, Android, Smart TV / Streaming Devices | 
+| Automation Practice |  Selenium (basic), Cypress (basic), Postman, SQL (basic) | 
+| API Testing | Postman |
+| Tools | Jira, TestRail, Git, Trello, Slack, Discord, Rocket.Chat, Excel, Google Sheets, Google Docs, Chrome DevTools |
 | Methodologies | Agile, Scrum, Waterfall |
+| Programming | Java, Swift, C#
 | Databases | MySQL, MS SQL Server |
 
 ---
-# 💼 Key QA Experience Demonstrated in This Portfolio
+# 🧭 Industries & Project Types (NDA Safe)
+Specific client and company names are not disclosed due to client confidentiality agreements.
 
-- Performed functional, exploratory, regression, smoke, and sanity testing across mobile, web, and Smart TV applications  
-- Executed end-to-end testing for food delivery and shopping workflows, including order placement, payment processing, and delivery tracking  
-- Conducted in-person testing for retail and delivery scenarios, validating real-world user flows and transaction accuracy  
-- Tested streaming platforms across mobile and Smart TV devices, verifying video playback, login, subscription activation, and customer support workflows  
-- Validated payment and subscription systems, including subscription activation, pricing updates, refunds, and payment authorization processes
-- Performed usability and UX testing for ride-sharing, delivery, and navigation applications, improving onboarding and navigation flows  
-- Tested AI-based applications, validating chatbot responses, messaging features, and user interaction workflows  
-- Conducted functional testing for social networking and communication applications, including friend connections, messaging, and call features  
-- Tested e-commerce and marketplace applications, validating product search, filtering, listing, checkout, and order confirmation workflows  
-- Verified system functionality for healthcare appointment and kiosk-based registration systems  
-- Performed regression testing after bug fixes to ensure system stability and prevent recurring defects  
-- Reported defects using structured bug reports and tracked issues using internal defect tracking tools
-- Collaborated with team leads and team members to reproduce and document defects
+- 🍔 Food Delivery & Grocery Applications
+- 📺 Streaming & Media Platforms
+- 🏀 Sports & Entertainment Applications
+- 🤖 AI & Chat Applications
+- 💬 Social Networking & Messaging Applications
+- 🚗 Ride-Sharing & Transportation Applications
+- ✈️ Travel & Airport Services Applications
+- 🛍️ E-Commerce & Marketplace Platforms
+- 🛒 Retail & Shopping Applications
+- 🏥 Healthcare & Appointment Scheduling Applications
+- 💳 Payment & Financial Applications
+- 💰 Cryptocurrency & Digital Wallet Applications
 
 ---
+# 🔍 QA Approach
 
-# 🧭 Industries & Project Types (NDA Safe)
+I combine structured test case execution with exploratory testing to validate expected functionality while also looking for unexpected behavior, usability issues, edge cases, and cross-platform inconsistencies.
 
-- Food Delivery & Grocery Applications 
-- Streaming & Media Platforms (Mobile & Smart TV) 
-- Sports & Entertainment Applications 
-- AI & Chat Applications 
-- Social Networking & Messaging Apps 
-- Ride-Sharing Services 
-- Travel & Airport Services Applications 
-- E-commerce & Marketplace Platforms 
-- Retail & Shopping Applications 
-- Healthcare & Appointment Scheduling Systems 
-- Payment & Financial Applications 
-- Cryptocurrency & Digital Wallet Applications
+My testing approach focuses on:
+
+- Understanding requirements and expected behavior
+- Following predefined test cases
+- Exploring beyond predefined scenarios
+- Reproducing and documenting defects
+- Verifying Jira tickets
+- Retesting fixes when applicable
+- Performing regression testing
+- Validating functionality across devices and platforms
+- Communicating clear testing results
+
+---
   
 📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/melissa-ha5/)
