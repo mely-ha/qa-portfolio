@@ -88,9 +88,9 @@ Platforms: Web | iOS | Android
 
 🚗 Transportation & Delivery Applications
 
-Platforms: iOS | Android | Web
+Platforms: iOS | Android 
 
-- Tested mobile and web application workflows.
+- Tested mobile application workflows.
 - Performed functional, exploratory, regression, and UX testing.
 - Validated navigation, user interactions, and different user scenarios.
 
@@ -104,7 +104,7 @@ Platforms: Web | Mobile
 
 💳 Payment & Transaction Applications
 
-Platforms: Mobile | Web
+Platforms: Mobile | Web 
 
 - Tested payment and transaction-related workflows.
 - Validated successful, unsuccessful, and edge-case scenarios.
@@ -177,7 +177,6 @@ Performed REST API testing using Postman, including:
 
 ---
 # 🧭 Industries & Project Types (NDA Safe)
-Specific client and company names are not disclosed due to client confidentiality agreements.
 
 - 🍔 Food Delivery & Grocery Applications
 - 📺 Streaming & Media Platforms
