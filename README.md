@@ -1,4 +1,4 @@
-# 👩‍💻 QA Portfolio
+👩‍💻 Manual QA Testing Portfolio
 
 ## About ME
 Manual QA Tester with hands-on freelance experience testing **web, iOS, Android, and Smart TV/streaming** applications across multiple industries.
