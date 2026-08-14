@@ -1,9 +1,10 @@
 👩‍💻 Manual QA Testing Portfolio
 
 ## About Me
-Manual QA Tester with hands-on freelance experience testing **web, iOS, Android, and Smart TV/streaming** applications across multiple industries.
 
-Experienced in **functional, regression, smoke, sanity, exploratory, UAT, UX/usability, payment, streaming, and API testing**. I execute test cases, verify requirements and Jira tickets, report defects, retest fixes when applicable, and perform cross-platform and cross-device testing.
+Manual QA Tester with hands-on freelance experience testing web, mobile, Smart TV/streaming, and enterprise platforms across multiple industries.
+
+Experienced in functional, exploratory, regression, UX/usability, API, streaming, payment, and cross-platform testing. Skilled in test execution, defect reporting, Jira ticket verification, retesting, and validating application behavior across UI, APIs, metadata, XML, logs, and downstream systems.
 
 Due to client confidentiality agreements, specific client and company names are not disclosed.
 
@@ -57,6 +58,19 @@ Includes:
 # 💼 QA Experience
 
 Due to client confidentiality agreements, specific client and company names are not disclosed.
+
+### 🏢 Enterprise Media & Content Platforms — Current Project
+Large Media Organization | NDA
+
+Platforms: Internal Web Applications | APIs | XML | AWS/Lambda | Postman
+
+- Tested internal media and content platforms supporting content ingestion, metadata management, asset delivery, archives, and distribution workflows.
+- Validated content and metadata parity across multiple distribution partners and downstream systems.
+- Performed API testing with Postman, including asset deliveries, payload validation, responses, and metadata changes.
+- Executed and validated AWS Lambda payloads and reviewed logs to verify processing results.
+- Validated results across internal UX, XML, logs, APIs, and downstream systems.
+- Performed functional and UX testing, retested fixes, and conducted regression testing across internal websites.
+- Verified Jira tickets against requirements and acceptance criteria and reported defects when expected results were not met.
 
 ### 📺 Streaming & Media Applications
 
@@ -134,12 +148,10 @@ Platforms: Web | Mobile
 
 My freelance QA experience includes:
 
-- Identifying and reproducing software defects.
-- Documenting clear steps to reproduce, expected results, and actual results.
-- Verifying Jira tickets against requirements and expected functionality.
-- Retesting fixes when applicable.
-- Performing regression testing after changes.
-- Communicating testing results and findings with team leads and other testers.
+- Reproduced and documented software defects with clear steps, expected results, and actual results.
+- Verified Jira tickets against requirements and acceptance criteria.
+- Retested fixes and performed regression testing after changes.
+- Communicated testing results and findings with project teams.
 
 ---
 
