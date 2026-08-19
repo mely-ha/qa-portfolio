@@ -62,15 +62,14 @@ Due to client confidentiality agreements, specific client and company names are 
 ### 🏢 Enterprise Media & Content Platforms — Current Project
 Large Media Organization | NDA
 
-Platforms: Internal Web Applications | APIs | XML | AWS/Lambda | Postman
+Platforms: Internal Media CMS | Web Applications | APIs | XML | AWS/Lambda | Postman | Jira
 
-- Tested internal media and content platforms supporting content ingestion, metadata management, asset delivery, archives, and distribution workflows.
-- Validated content and metadata parity across multiple distribution partners and downstream systems.
-- Performed API testing with Postman, including asset deliveries, payload validation, responses, and metadata changes.
-- Executed and validated AWS Lambda payloads and reviewed logs to verify processing results.
-- Validated results across internal UX, XML, logs, APIs, and downstream systems.
-- Performed functional and UX testing, retested fixes, and conducted regression testing across internal websites.
-- Verified Jira tickets against requirements and acceptance criteria and reported defects when expected results were not met.
+- Tested internal media content management platforms supporting asset ingestion, metadata management, publishing, delivery, archives, and distribution workflows.
+- Validated asset metadata, licensing windows, content properties, and distribution workflows across internal systems and downstream partners.
+- Performed API testing with Postman, validating requests, responses, asset deliveries, payloads, and metadata updates.
+- Executed and validated AWS Lambda workflows and payloads, reviewing logs to verify processing results and troubleshoot failures.
+- Validated data and content parity across CMS UI, XML, APIs, AWS logs, asset trackers, and downstream systems.
+- Performed functional, exploratory, UX, regression, and retesting, verified Jira requirements and acceptance criteria, and reported defects when expected results were not met.
 
 ### 📺 Streaming & Media Applications
 
@@ -197,7 +196,7 @@ Postman collection with functional & negative tests: [Collection](https://drive.
 # 🧭 Industries & Project Types (NDA Safe)
 
 - 🍔 Food Delivery & Grocery Applications
-- 📺 Streaming & Media Platforms
+- 📺 Streaming, Media & Content Management Platforms
 - 🏀 Sports & Entertainment Applications
 - 🤖 AI & Chat Applications
 - 💬 Social Networking & Messaging Applications
@@ -216,15 +215,17 @@ I combine structured test case execution with exploratory testing to validate ex
 
 My testing approach focuses on:
 
-- Understanding requirements and expected behavior
-- Following predefined test cases
-- Exploring beyond predefined scenarios
-- Reproducing and documenting defects
-- Verifying Jira tickets
-- Retesting fixes when applicable
-- Performing regression testing
-- Validating functionality across devices and platforms
-- Communicating clear testing results
+- Understanding requirements, acceptance criteria, and expected behavior
+- Following and executing predefined test cases
+- Performing exploratory testing beyond predefined scenarios
+- Testing web, mobile, API, and content management workflows
+- Validating data across UI, APIs, XML, logs, and downstream systems
+- Reproducing, documenting, and reporting defects with clear evidence
+- Verifying Jira tickets and acceptance criteria
+- Retesting fixes and performing regression testing
+- Validating functionality across devices, browsers, platforms, and environments
+- Using tools such as Postman to validate APIs and AWS logs to verify backend processing
+- Communicating clear testing results, risks, and findings
 
 ---
   
