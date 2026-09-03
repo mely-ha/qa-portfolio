@@ -2,11 +2,9 @@
 
 ## About Me
 
-Manual QA Tester with hands-on freelance experience testing web, mobile, Smart TV/streaming, and enterprise platforms across multiple industries.
+Manual QA Tester with hands-on freelance experience testing web, mobile, Smart TV/streaming, and enterprise media and content management platforms across multiple industries.
 
-Experienced in functional, exploratory, regression, UX/usability, API, streaming, payment, and cross-platform testing. Skilled in test execution, defect reporting, Jira ticket verification, retesting, and validating application behavior across UI, APIs, metadata, XML, logs, and downstream systems.
-
-Due to client confidentiality agreements, specific client and company names are not disclosed.
+I have experience with functional, exploratory, regression, UX/usability, API, streaming, payment, and cross-platform testing. I execute test cases, report and retest defects, verify Jira tickets, and validate application behavior across UI, APIs, metadata, XML, logs, and downstream systems.
 
 ---
 
@@ -20,7 +18,7 @@ Due to client confidentiality agreements, specific client and company names are 
 | Section | Description | Links |
 |---------|-------------|-------|
 | **Manual Testing** | Test cases, bug reports, and test plans created on practice sites | [Details Below](#manual-testing-examples) |
-| **Automation Testing** | Selenium, Cypress, Postman collections | [Details Below](#automation-testing-examples) |
+| **Automation Practice** | Selenium, Cypress, Postman collections | [Details Below](#automation-testing-examples) |
 | **Tools & Skills** | QA tools, methodologies, and technical skills | [Details Below](#tools-and-skills) |
 
 ---
@@ -47,7 +45,7 @@ Due to client confidentiality agreements, specific client and company names are 
 
 # 📋 Test Plan
 Includes:
-- Outlines objectives
+- Objectives
 - Scope
 - Test cases
 - Expected results
@@ -62,14 +60,14 @@ Due to client confidentiality agreements, specific client and company names are 
 ### 🏢 Enterprise Media & Content Platforms — Current Project
 Large Media Organization | NDA
 
-Platforms: Internal Media CMS | Web Applications | APIs | XML | AWS/Lambda | Postman | Jira
+Platforms: Internal Media CMS | Web Applications | APIs | XML | AWS Lambda | Postman | Jira
 
 - Tested internal media content management platforms supporting asset ingestion, metadata management, publishing, delivery, archives, and distribution workflows.
 - Validated asset metadata, licensing windows, content properties, and distribution workflows across internal systems and downstream partners.
 - Performed API testing with Postman, validating requests, responses, asset deliveries, payloads, and metadata updates.
-- Executed and validated AWS Lambda workflows and payloads, reviewing logs to verify processing results and troubleshoot failures.
+- Validated AWS Lambda workflows and payloads by reviewing logs to verify processing results and troubleshoot failures.
 - Validated data and content parity across CMS UI, XML, APIs, AWS logs, asset trackers, and downstream systems.
-- Performed functional, exploratory, UX, regression, and retesting, verified Jira requirements and acceptance criteria, and reported defects when expected results were not met.
+- Performed functional, exploratory, UX, and regression testing; retested fixes, verified Jira requirements and acceptance criteria, and reported defects when expected results were not met.
 
 ### 📺 Streaming & Media Applications
 
@@ -143,6 +141,66 @@ Platforms: Web | Mobile
 
 ---
 
+# 🧪 Enterprise CMS Testing Examples
+### NDA-Safe Testing Examples
+
+The following examples are based on enterprise media and content management testing performed in a professional QA environment. Client names, internal systems, IDs, URLs, proprietary data, and other confidential information have been removed or replaced with generic examples.
+
+Example areas tested:
+- Asset ingestion and processing
+- Metadata validation
+- Content publishing
+- Content properties and licensing
+- Delivery and distribution workflows
+- API and XML validation
+- UI and backend data consistency
+- Error and negative scenarios
+- Retesting and regression testing
+
+-**Example 1 - File Naming / Auto-Tagging**
+
+**Scenario**: Validate automatic metadata tagging based on a predefined file-naming convention.
+
+**Test**: Upload media files using a valid naming format and verify that the expected metadata is automatically populated.
+
+**Expected Result**: The system recognizes the valid naming format and automatically populates the applicable metadata fields.
+
+**Negative scenario**:
+Upload a file using an invalid naming format.
+
+**Expected Result**: Automatic tagging does not occur, and the system handles the invalid file name according to the expected business rules.
+
+-**Example 2 - Licensing Window**
+**Scenario**: Validate that the licensing end date is populated correctly when an asset has a defined season or episode licensing date.
+
+**Test**: Process an asset with a season-level licensing end date.
+
+**Expected Result**:
+The generated delivery metadata contains the corresponding licensing end date.
+
+**Negative/alternate scenario**:
+Process an asset where the episode has its own licensing end date.
+
+**Expected Result**:
+The episode-level licensing date is used when applicable.
+
+-**Example 3 - Metadata Mapping**
+
+**Scenario**: Validate metadata mapping during content publishing.
+
+**Test**: Publish an eligible asset containing a valid episode identifier and verify the identifier in the generated XML.
+
+**Expected Result**:
+The expected episode identifier is mapped to the appropriate XML field.
+
+**Negative scenario**:
+Publish an asset where the episode identifier is missing or invalid.
+
+**Expected Result**:
+The system uses the defined fallback metadata value according to the business rule.
+
+---
+
 # 🐞 Bug Reporting & Jira Ticket Verification
 
 My freelance QA experience includes:
@@ -163,7 +221,7 @@ Performed REST API testing using Postman, including:
 - Request validation
 - Response validation
 - Status code validation
-- Expected vs. unexpected responses
+- Response behavior validation
 
 # 🤖 Automation Practice
 
@@ -180,17 +238,18 @@ Postman collection with functional & negative tests: [Collection](https://drive.
 ---
 
 # Tools and Skills
-| Category | Tools / Skills |
-|----------|----------------|
-| Manual Testing | Test case design, bug reporting, exploratory, regression, functional, smoke, sanity, UAT, UX testing | 
-| Specialized Testing | Streaming, payment, API, cross-platform, and cross-device testing | 
-| Platforms | Web, iOS, Android, Smart TV / Streaming Devices | 
-| Automation Practice |  Selenium (basic), Cypress (basic), Postman, SQL (basic) | 
-| API Testing | Postman |
-| Tools | Jira, TestRail, Git, Trello, Slack, Discord, Rocket.Chat, Excel, Google Sheets, Google Docs, Chrome DevTools |
-| Methodologies | Agile, Scrum, Waterfall |
-| Programming | Java, Swift, C#
-| Databases | MySQL, MS SQL Server |
+
+| Category                | Tools / Skills                                                                                               |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Manual Testing**      | Test case design, bug reporting, exploratory, regression, functional, smoke, sanity, UAT, UX testing         |
+| **Testing Areas**       | Streaming, payment, cross-platform, and cross-device testing                                                 |
+| **Platforms**           | Web, iOS, Android, Smart TV / Streaming Devices                                                              |
+| **Automation Practice** | Selenium (basic), Cypress (basic)                                                                            |
+| **API Testing**         | Postman, REST API testing, request validation, response validation, status code validation                   |
+| **Database Testing**    | SQL (basic), MySQL, MS SQL Server                                                                            |
+| **Tools**               | Jira, TestRail, Git, Trello, Slack, Discord, Rocket.Chat, Excel, Google Sheets, Google Docs, Chrome DevTools |
+| **Methodologies**       | Agile, Scrum, Waterfall                                                                                      |
+| **Programming**         | Java, Swift, C#                                                                                              |
 
 ---
 # 🧭 Industries & Project Types (NDA Safe)
